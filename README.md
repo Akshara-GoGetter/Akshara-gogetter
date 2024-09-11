@@ -20,10 +20,7 @@
 
  👩‍🎓 I'm a Intermediate student at ....
  
- 🐱 I'm 21 y/o, go by he/him pronouns.
-
- ⚡ I'm a highly skilled web developer with expertise in React.js and Node.js, combined with
-     strong knowledge of Data Structures and Algorithms.
+ 🐱 I'm 17 y/o, go by she/her pronouns.
 
  ⭐ Besides all that I love to drive and listen to music.
 
