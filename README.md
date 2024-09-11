@@ -18,7 +18,7 @@
   
 ### &nbsp;About Me :
 
- 👩‍🎓 I'm a Intermediate student at ....
+ 👩‍🎓 I'm a Intermediate student at Presenation Convent Senior Secondary School
  
  🐱 I'm 17 y/o, go by she/her pronouns.
 
