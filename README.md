@@ -1,15 +1,15 @@
 
 <p align="center"><img src="file (5).png" width="160"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/satyam173/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://satyam21.netlify.app/"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=satyam868910&style=flat-square&color=blue" alt=""></p>
 
  <h1 align="left">
 <!-- <img align="right" alt="Coding" width="100" src=""> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+%E2%9C%8C%EF%B8%8FI+am+Satyam+coder+%F0%9F%98%88." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+%E2%9C%8C%EF%B8%8FI+am+Akshara+yadav+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </h1>
  <br>
 <img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
