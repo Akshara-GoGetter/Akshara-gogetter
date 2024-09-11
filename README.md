@@ -13,12 +13,12 @@
 </h1>
 
   <br>
-<img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="330" src="akshara-1.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam868910&label=Profile%20views&color=0e75b6&style=flat" alt="satyam868910" /> </p> -->
   
 ### &nbsp;About Me :
 
- 👩‍🎓 I'm a Final year IT student at AITH.
+ 👩‍🎓 I'm a Intermediate student at ....
  
  🐱 I'm 21 y/o, go by he/him pronouns.
 
