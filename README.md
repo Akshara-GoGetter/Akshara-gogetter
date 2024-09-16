@@ -1,7 +1,7 @@
 
 <p align="center"><img src="file (5).png" width="160"/></p>
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/akshara-yadav-9a72a7328/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://aksharagogetter.com"><img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=symfony&logoColor=Red" alt="LinkedIn Badge"></a>
 </p>
 
